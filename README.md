@@ -15,6 +15,8 @@ I'm an M.Sc. Physics student at Bar-Ilan University with a focus on theoretical 
 - Pandas
 - SciPy
 - Matplotlib
+- C++
+- MATLAB
 - Git
 
 ## Current Focus
