@@ -6,7 +6,7 @@ I'm an M.Sc. Physics student at Bar-Ilan University with a focus on theoretical 
 
 - 🎓 M.Sc. in Theoretical Condensed Matter Physics
 - 🐍 Building Python projects and improving my software engineering skills
-- 📊 Interested in scientific computing, data analysis, and software development
+- 📊 Interested in scientific computing, software development, and data analysis 
 
 ## Technologies
 
