@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aviv Kaveh 👋
+
+I'm an M.Sc. Physics student at Bar-Ilan University with a focus on theoretical and computational physics, and scientific programming in Python.
+
+## About Me
+
+- 🎓 M.Sc. in Theoretical Condensed Matter Physics
+- 🐍 Building Python projects and improving my software engineering skills
+- 📊 Interested in scientific computing, data analysis, and software development
+
+## Technologies
+
+- Python
+- NumPy
+- Pandas
+- SciPy
+- Matplotlib
+- Git
+
+## Current Focus
+
+I'm building a portfolio of Python projects while expanding my software engineering skills.
+
+## Connect with Me
+
+- LinkedIn: https://linkedin.com/in/aviv-kaveh
+
 
 <!--
 **avivKaveh/avivKaveh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
